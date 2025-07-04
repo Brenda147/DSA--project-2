@@ -13,6 +13,9 @@ The primary source of data usesd here is Kultra Mega Stores Inventory that can b
 	•	Used to query and analyze sales, customer, and shipping data stored in relational database tables.
 	•	SQL queries were written to extract insights related to product performance, customer segments, and shipping methods.
 
+## Analysis
+https://github.com/Brenda147/DSA--project-2/blob/main/KMS%20SQL%20CASE%20STUDY.sql
+
 ### Key Findings:
 	•	Technology was the highest-grossing product category, contributing ₦5.98M in revenue.
 	•	Western Nigeria outperformed other regions, while Northern remote regions underperformed.
